@@ -1,0 +1,2 @@
+rootProject.name='ChatBinCollection'
+include ':app'
